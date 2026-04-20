@@ -1,0 +1,40 @@
+controls:
+  apple_settings:
+    configuration_profiles:
+    - labels_include_all:
+      - macOS
+      path: ../lib/unassigned/profiles/2bm1b9---wifi---macos---sheriff-projects.mobileconfig
+  enable_disk_encryption: false
+  enable_recovery_lock_password: false
+  enable_turn_on_windows_mdm_manually: false
+  ios_updates:
+    deadline:
+    minimum_version:
+    update_new_hosts:
+  ipados_updates:
+    deadline:
+    minimum_version:
+    update_new_hosts:
+  macos_migration:
+    enable: false
+    mode:
+    webhook_url:
+  macos_updates:
+    deadline:
+    minimum_version:
+    update_new_hosts:
+  scripts:
+  windows_migration_enabled: false
+  windows_require_bitlocker_pin: false
+  windows_updates:
+    deadline_days:
+    grace_period_days:
+name: Unassigned
+policies:
+settings:
+  webhook_settings:
+    failing_policies_webhook:
+      destination_url:
+      enable_failing_policies_webhook: false
+      host_batch_size: 0
+software:
