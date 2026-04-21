@@ -4,6 +4,8 @@ controls:
     - labels_include_all:
       - macOS
       path: ../lib/unassigned/profiles/2bm1b9---wifi---macos---sheriff-projects.mobileconfig
+    - labels_include_all:
+      - macOS
       path: ../lib/unassigned/profiles/Settings_WACOM_TABLET.mobileconfig
   enable_disk_encryption: false
   enable_recovery_lock_password: false
