@@ -1,51 +1,21 @@
 controls:
   apple_settings:
     configuration_profiles:
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/2bm1b9---wifi---macos---sheriff-projects.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/Settings_WACOM_TABLET.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/install_sign_font.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_avid_client_nexis.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_carbon_copy.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_chrome.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_forticlient.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_orbit.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_osascript.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_rectangle.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_slack.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_smb_link.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_support_app.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_teams.mobileconfig
-    - labels_include_all:
-      - macOS
-      path: ../lib/unassigned/profiles/settings_xmenu.mobileconfig
+    - path: ../lib/unassigned/profiles/2bm1b9---wifi---macos---sheriff-projects.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_WACOM_TABLET.mobileconfig
+    - path: ../lib/unassigned/profiles/install_sign_font.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_avid_client_nexis.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_carbon_copy.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_chrome.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_forticlient.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_orbit.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_osascript.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_rectangle.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_slack.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_smb_link.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_support_app.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_teams.mobileconfig
+    - path: ../lib/unassigned/profiles/settings_xmenu.mobileconfig
   enable_disk_encryption: false
   enable_recovery_lock_password: false
   enable_turn_on_windows_mdm_manually: false
