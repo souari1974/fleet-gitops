@@ -18,7 +18,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Approved Kernel Extensions</string>
 			<key>PayloadIdentifier</key>
-			<string>1477F10E-F210-4176-A5A9-BDE4E1FB6C2B</string>
+			<string>com.sheriffprojects.avidnexis</string>
 			<key>PayloadOrganization</key>
 			<string>SHERIFF PROJECTS</string>
 			<key>PayloadType</key>

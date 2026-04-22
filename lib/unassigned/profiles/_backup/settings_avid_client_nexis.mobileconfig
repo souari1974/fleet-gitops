@@ -5,37 +5,36 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>AutoLaunchedApplicationDictionary-managed</key>
+			<key>AllowNonAdminUserApprovals</key>
+			<true/>
+			<key>AllowUserOverrides</key>
+			<true/>
+			<key>AllowedTeamIdentifiers</key>
 			<array>
-				<dict>
-					<key>Hide</key>
-					<false/>
-					<key>Path</key>
-					<string>/Applications/XMenu.app/</string>
-				</dict>
+				<string>4UYUA773XD</string>
 			</array>
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>Login Items:  Managed Items</string>
+			<string>Approved Kernel Extensions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.sheriffprojects.xmenu</string>
+			<string>1477F10E-F210-4176-A5A9-BDE4E1FB6C2B</string>
 			<key>PayloadOrganization</key>
 			<string>SHERIFF PROJECTS</string>
 			<key>PayloadType</key>
-			<string>com.apple.loginitems.managed</string>
+			<string>com.apple.syspolicy.kernel-extension-policy</string>
 			<key>PayloadUUID</key>
-			<string>4A72D9F8-C9FB-4048-A2A2-B217230CFCA5</string>
+			<string>1477F10E-F210-4176-A5A9-BDE4E1FB6C2B</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string></string>
+	<string>Allow kext Avid Client Nexis</string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• XMENU •••</string>
+	<string>Settings ••• AVID CLIENT NEXIS  •••</string>
 	<key>PayloadIdentifier</key>
-	<string>806C3FC8-FDD8-40DB-8F56-498494913BEF</string>
+	<string>9BEF3745-945E-42A8-9FA1-88DF4461EBC8</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -45,7 +44,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>806C3FC8-FDD8-40DB-8F56-498494913BEF</string>
+	<string>9BEF3745-945E-42A8-9FA1-88DF4461EBC8</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

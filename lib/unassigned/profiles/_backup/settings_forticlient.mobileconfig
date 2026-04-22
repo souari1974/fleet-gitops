@@ -35,7 +35,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Notifications</string>
 			<key>PayloadIdentifier</key>
-			<string>com.sheriffprojects.forticlient</string>
+			<string>com.apple.notificationsettings.8A557C3F-51B1-40B3-8EBA-4A9487D7B87B</string>
 			<key>PayloadType</key>
 			<string>com.apple.notificationsettings</string>
 			<key>PayloadUUID</key>

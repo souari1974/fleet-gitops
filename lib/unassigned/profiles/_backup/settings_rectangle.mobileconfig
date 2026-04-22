@@ -8,30 +8,30 @@
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>carbon</string>
+			<string>Privacy Preferences Policy Control</string>
 			<key>PayloadIdentifier</key>
-			<string>com.sheriffprojects.carboncopy</string>
+			<string>D63E874D-4293-4C2B-A6D8-6FADE5B073BB</string>
 			<key>PayloadOrganization</key>
 			<string>SHERIFF PROJECTS</string>
 			<key>PayloadType</key>
 			<string>com.apple.TCC.configuration-profile-policy</string>
 			<key>PayloadUUID</key>
-			<string>DB81EDAC-0D36-4FD6-BBA1-CC6ED5DA4630</string>
+			<string>D63E874D-4293-4C2B-A6D8-6FADE5B073BB</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Services</key>
 			<dict>
-				<key>SystemPolicyAllFiles</key>
+				<key>Accessibility</key>
 				<array>
 					<dict>
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>anchor apple generic and identifier "com.bombich.ccchelper" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = L4F2DED5Q7)</string>
+						<string>anchor apple generic and identifier "com.knollsoft.Rectangle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = XSYZ3E4B7D)</string>
 						<key>Identifier</key>
-						<string>/Library/PrivilegedHelperTools/com.bombich.ccchelper</string>
+						<string>com.knollsoft.Rectangle</string>
 						<key>IdentifierType</key>
-						<string>path</string>
+						<string>bundleID</string>
 						<key>StaticCode</key>
 						<false/>
 					</dict>
@@ -42,9 +42,9 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• CARBON COPY •••</string>
+	<string>Settings ••• RECTANGLE •••</string>
 	<key>PayloadIdentifier</key>
-	<string>fab89ca7-a959-4ed2-a0be-6e60d2fa36d0</string>
+	<string>B9965720-2939-4D9E-A576-75DE3B854F3D</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -54,7 +54,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>fab89ca7-a959-4ed2-a0be-6e60d2fa36d0</string>
+	<string>B9965720-2939-4D9E-A576-75DE3B854F3D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

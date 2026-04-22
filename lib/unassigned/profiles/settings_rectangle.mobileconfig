@@ -10,7 +10,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Privacy Preferences Policy Control</string>
 			<key>PayloadIdentifier</key>
-			<string>D63E874D-4293-4C2B-A6D8-6FADE5B073BB</string>
+			<string>com.sheriffprojects.rectangle</string>
 			<key>PayloadOrganization</key>
 			<string>SHERIFF PROJECTS</string>
 			<key>PayloadType</key>

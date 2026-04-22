@@ -10,7 +10,7 @@
 			<key>PayloadDisplayName</key>
 			<string>com.jamf.management.Jamf</string>
 			<key>PayloadIdentifier</key>
-			<string>62D62216-CF14-47CD-BA36-566C87EEFB67</string>
+			<string>com.sheriffprojects.osascript</string>
 			<key>PayloadOrganization</key>
 			<string>SHERIFF PROJECTS</string>
 			<key>PayloadType</key>
