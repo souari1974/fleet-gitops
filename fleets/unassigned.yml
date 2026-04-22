@@ -1,7 +1,7 @@
 controls:
   apple_settings:
     configuration_profiles:
-    - path: ../lib/unassigned/profiles/Settings_WACOM_TABLET.mobileconfig
+    - path: ../lib/unassigned/profiles/2bm1b9---wifi---macos---sheriff-projects.mobileconfig
   enable_recovery_lock_password: false
   enable_turn_on_windows_mdm_manually: false
   ios_updates:
