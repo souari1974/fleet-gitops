@@ -86,7 +86,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Settings ••• ORBIT •••</string>
 	<key>PayloadIdentifier</key>
-	<string>a8261ef7-f736-436f-b36d-87de6532f1c2</string>
+	<string>859684A3-83EA-4977-AED4-F69195BBD03A</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -96,7 +96,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>a8261ef7-f736-436f-b36d-87de6532f1c2</string>
+	<string>859684A3-83EA-4977-AED4-F69195BBD03A</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
