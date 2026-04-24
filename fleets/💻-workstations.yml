@@ -1,20 +1,5 @@
+agent_options:
 controls:
-  macos_settings:
-    custom_settings:
-    - path: ../lib/macos/configuration-profiles/2bm1b9---wifi---macos---sheriff-projects.mobileconfig
-    - path: ../lib/macos/configuration-profiles/Settings_WACOM_TABLET.mobileconfig
-    - path: ../lib/macos/configuration-profiles/install_sign_font.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_avid_client_nexis.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_carbon_copy.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_chrome.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_forticlient.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_orbit.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_osascript.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_rectangle.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_slack.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_smb_link.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_support_app.mobileconfig
-    - path: ../lib/macos/configuration-profiles/settings_xmenu.mobileconfig
   enable_disk_encryption: false
   enable_recovery_lock_password: false
   ios_updates:
