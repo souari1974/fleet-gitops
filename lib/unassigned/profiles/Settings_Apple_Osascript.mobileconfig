@@ -8,7 +8,7 @@
 			<key>PayloadDescription</key>
 			<string>Applescript</string>
 			<key>PayloadDisplayName</key>
-			<string>com.jamf.management.Jamf</string>
+			<string>PPPC ••• Apple - Osascript •••</string>
 			<key>PayloadIdentifier</key>
 			<string>62D62216-CF14-47CD-BA36-566C87EEFB67</string>
 			<key>PayloadOrganization</key>
@@ -33,9 +33,9 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>identifier "com.fleetdm.orbit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8VBZ3948LU"</string>
+						<string>identifier "com.apple.osascript" and anchor apple</string>
 						<key>Identifier</key>
-						<string>/opt/orbit/bin/orbit/macos/stable/orbit</string>
+						<string>/usr/bin/osascript</string>
 						<key>IdentifierType</key>
 						<string>path</string>
 						<key>StaticCode</key>
@@ -51,9 +51,9 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>identifier "com.fleetdm.orbit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8VBZ3948LU"</string>
+						<string>identifier "com.apple.osascript" and anchor apple</string>
 						<key>Identifier</key>
-						<string>/opt/orbit/bin/orbit/macos/stable/orbit</string>
+						<string>/usr/bin/osascript</string>
 						<key>IdentifierType</key>
 						<string>path</string>
 						<key>StaticCode</key>
@@ -69,9 +69,9 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>identifier "com.fleetdm.orbit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8VBZ3948LU"</string>
+						<string>identifier "com.apple.osascript" and anchor apple</string>
 						<key>Identifier</key>
-						<string>/opt/orbit/bin/orbit/macos/stable/orbit</string>
+						<string>/usr/bin/osascript</string>
 						<key>IdentifierType</key>
 						<string>path</string>
 						<key>StaticCode</key>
@@ -81,12 +81,10 @@
 			</dict>
 		</dict>
 	</array>
-	<key>PayloadDescription</key>
-	<string>Orbit</string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• ORBIT Automation •••</string>
+	<string>Settings ••• Apple - Osascript •••</string>
 	<key>PayloadIdentifier</key>
-	<string>a8261ef7-f736-436f-b36d-87de6532f1c2</string>
+	<string>com.sheriffprojects.osascript</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>

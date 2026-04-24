@@ -257,9 +257,9 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• WACOM TABLET •••</string>
+	<string>Settings ••• Wacom - Tablet •••</string>
 	<key>PayloadIdentifier</key>
-	<string>iMazing-Profile-Editor.8ba6e343-532a-4184-9046-885c0ddfd4d8</string>
+	<string>com.sheriffprojects.wacom</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>

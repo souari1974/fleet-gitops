@@ -8,7 +8,7 @@
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>Privacy Preferences Policy Control</string>
+			<string>PPPC ••• Ryan Hanson - Rectangle •••</string>
 			<key>PayloadIdentifier</key>
 			<string>D63E874D-4293-4C2B-A6D8-6FADE5B073BB</string>
 			<key>PayloadOrganization</key>
@@ -42,9 +42,9 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• RECTANGLE •••</string>
+	<string>Settings ••• Ryan Hanson - Rectangle •••</string>
 	<key>PayloadIdentifier</key>
-	<string>B9965720-2939-4D9E-A576-75DE3B854F3D</string>
+	<string>com.sheriffprojects.rectangle</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>

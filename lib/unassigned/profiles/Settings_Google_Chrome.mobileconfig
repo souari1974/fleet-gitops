@@ -8,7 +8,7 @@
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>Settings ••• CHROME •••</string>
+			<string>PPPC ••• Google - Chrome •••</string>
 			<key>PayloadIdentifier</key>
 			<string>D82FC87F-9B1C-44E6-B8CA-389533539D7D</string>
 			<key>PayloadOrganization</key>
@@ -92,6 +92,8 @@
 					<true/>
 				</dict>
 			</array>
+			<key>PayloadDisplayName</key>
+			<string>Notifications ••• Google - Chrome •••</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.notificationsettings.69844251-7C6F-4E4B-BE42-B904BA5498AF</string>
 			<key>PayloadType</key>
@@ -105,9 +107,9 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• CHROME •••</string>
+	<string>Settings ••• Google - Chrome •••</string>
 	<key>PayloadIdentifier</key>
-	<string>e8fc3ba9-7df2-48bf-ab8b-f7394a868471</string>
+	<string>com.sheriffprojects.chrome</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>

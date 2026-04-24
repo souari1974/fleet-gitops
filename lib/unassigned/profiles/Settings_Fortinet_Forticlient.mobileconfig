@@ -33,7 +33,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Notifications</string>
+			<string>Notifications ••• Fortinet - Forticlient •••</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.notificationsettings.8A557C3F-51B1-40B3-8EBA-4A9487D7B87B</string>
 			<key>PayloadType</key>
@@ -47,7 +47,7 @@
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>Privacy Preferences Policy Control</string>
+			<string>PPPC ••• Fortinet - Forticlient •••</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.TCC.configuration-profile-policy.EC1997DB-6BED-4D64-87FE-836BCA51BC39</string>
 			<key>PayloadOrganization</key>
@@ -98,7 +98,7 @@
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>VPN</string>
+			<string>VPN ••• Fortinet - Forticlient •••</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.vpn.managed.BA4715CA-1EE9-4CD9-B2B5-7CAF7FEC73B0</string>
 			<key>PayloadOrganization</key>
@@ -110,7 +110,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>UserDefinedName</key>
-			<string>VPN_CP</string>
+			<string>VPN_SP</string>
 			<key>VPN</key>
 			<dict>
 				<key>AuthName</key>
@@ -153,7 +153,7 @@
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>System Extensions</string>
+			<string>System Extensions ••• Fortinet - Forticlient •••</string>
 			<key>PayloadIdentifier</key>
 			<string>EC88EA47-9FE7-4A34-AE9A-5E2D57C2D6E0</string>
 			<key>PayloadOrganization</key>
@@ -165,13 +165,47 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Fortitray</string>
+			<key>PayloadDisplayName</key>
+			<string>PPPC ••• Fortinet - Fortitray •••</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.TCC.configuration-profile-policy.0A12DC39-5FED-49F4-947C-D1154FBBDBDB</string>
+			<key>PayloadOrganization</key>
+			<string>SHERIFF PROJECTS</string>
+			<key>PayloadType</key>
+			<string>com.apple.TCC.configuration-profile-policy</string>
+			<key>PayloadUUID</key>
+			<string>0A12DC39-5FED-49F4-947C-D1154FBBDBDB</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Services</key>
+			<dict>
+				<key>SystemPolicyNetworkVolumes</key>
+				<array>
+					<dict>
+						<key>Allowed</key>
+						<true/>
+						<key>CodeRequirement</key>
+						<string>anchor apple generic and identifier "com.fortinet.forticlient.macos.vpn" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = AH4XFXJ7DK)</string>
+						<key>Comment</key>
+						<string></string>
+						<key>Identifier</key>
+						<string>com.fortinet.forticlient.macos.vpn</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+				</array>
+			</dict>
+		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• FORTICLIENT •••</string>
+	<string>Settings ••• Fortinet - Forticlient •••</string>
 	<key>PayloadIdentifier</key>
-	<string>0D69A560-9782-41D3-8289-8C098E85C101</string>
+	<string>com.sheriffprojects.forticlient</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>

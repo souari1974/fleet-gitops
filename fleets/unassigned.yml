@@ -1,20 +1,22 @@
 controls:
   macos_settings:
     custom_settings:
-    - path: ../lib/unassigned/configuration-profiles/2bm1b9---wifi---macos---sheriff-projects.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/Settings_WACOM_TABLET.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/install_sign_font.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_avid_client_nexis.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_carbon_copy.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_chrome.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_forticlient.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_orbit.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_osascript.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_rectangle.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_slack.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_smb_link.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_support_app.mobileconfig
-    - path: ../lib/unassigned/configuration-profiles/settings_xmenu.mobileconfig
+    - path: ../lib/unassigned/profiles/Install_Maxitype_Signs_Font.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Apple_Osascript.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Apple_Terminal.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Avid_Nexis_Client.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Bombich_Carbon_Copy_Cloner.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_DEVONTech_Xmenu.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_FleetDM_Orbit.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Fortinet_Forticlient.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Google_Chrome.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Microsoft_Teams.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Root3_SupportApp.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Ryan_Hanson_Rectangle.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Salesforce_Slack.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Sheriff_Projects_SP_Tools.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Sheriff_Projects_Smb_Link.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Wacom_Tablet.mobileconfig
   enable_disk_encryption: false
   enable_recovery_lock_password: false
   enable_turn_on_windows_mdm_manually: false

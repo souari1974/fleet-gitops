@@ -120,11 +120,9 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• SUPPORT APP •••</string>
-	<key>PayloadEnabled</key>
-	<true/>
+	<string>Settings ••• Root3 - SupportApp •••</string>
 	<key>PayloadIdentifier</key>
-	<string>44C560CC-85F7-4339-921D-A22B3C69AADA</string>
+	<string>com.sheriffprojects.supportapp</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>

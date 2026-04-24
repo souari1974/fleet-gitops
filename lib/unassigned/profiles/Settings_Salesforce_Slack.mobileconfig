@@ -8,9 +8,7 @@
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>Privacy Preferences Policy Control</string>
-			<key>PayloadEnabled</key>
-			<true/>
+			<string>PPPC •••  Salesforce - Slack •••</string>
 			<key>PayloadIdentifier</key>
 			<string>FFF4363B-9819-4CE4-814E-DDF3176FE7D6</string>
 			<key>PayloadOrganization</key>
@@ -162,7 +160,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Notifications Payload</string>
+			<string>Notifications •••  Salesforce - Slack •••</string>
 			<key>PayloadIdentifier</key>
 			<string>2EEA947C-1AEB-444A-895A-F9C4B2098C16</string>
 			<key>PayloadOrganization</key>
@@ -178,11 +176,9 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• SLACK •••</string>
-	<key>PayloadEnabled</key>
-	<true/>
+	<string>Settings •••  Salesforce - Slack •••</string>
 	<key>PayloadIdentifier</key>
-	<string>E650CB46-C2B2-4854-9362-CDD349F1CCE9</string>
+	<string>com.sheriffprojects.slack</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>

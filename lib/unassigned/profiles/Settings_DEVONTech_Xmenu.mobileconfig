@@ -9,7 +9,7 @@
 			<array>
 				<dict>
 					<key>Hide</key>
-					<false/>
+					<true/>
 					<key>Path</key>
 					<string>/Applications/XMenu.app/</string>
 				</dict>
@@ -33,9 +33,9 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• XMENU •••</string>
+	<string>Settings ••• DEVONTech - Xmenu •••</string>
 	<key>PayloadIdentifier</key>
-	<string>806C3FC8-FDD8-40DB-8F56-498494913BEF</string>
+	<string>com.sheriffprojects.xmenu</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>

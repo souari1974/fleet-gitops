@@ -8,7 +8,7 @@
 			<key>PayloadDescription</key>
 			<string>Applescript</string>
 			<key>PayloadDisplayName</key>
-			<string>com.jamf.management.Jamf</string>
+			<string>PPPC ••• FleetDM - Orbit •••</string>
 			<key>PayloadIdentifier</key>
 			<string>62D62216-CF14-47CD-BA36-566C87EEFB67</string>
 			<key>PayloadOrganization</key>
@@ -81,12 +81,10 @@
 			</dict>
 		</dict>
 	</array>
-	<key>PayloadDescription</key>
-	<string>Orbit</string>
 	<key>PayloadDisplayName</key>
-	<string>Settings ••• ORBIT •••</string>
+	<string>Settings ••• FleetDM - Orbit •••</string>
 	<key>PayloadIdentifier</key>
-	<string>a8261ef7-f736-436f-b36d-87de6532f1c4</string>
+	<string>com.sheriffprojects.orbit</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -96,7 +94,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>a8261ef7-f736-436f-b36d-87de6532f1c4</string>
+	<string>a8261ef7-f736-436f-b36d-87de6532f1c2</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

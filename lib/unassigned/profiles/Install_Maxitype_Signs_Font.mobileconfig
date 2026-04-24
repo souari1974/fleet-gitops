@@ -2104,11 +2104,11 @@
 			AAAAAAABAAAAAA==
 			</data>
 			<key>Name</key>
-			<string>Sign Font Regular</string>
+			<string>Signs Font Regular</string>
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>Font</string>
+			<string>Signs Font Regular</string>
 			<key>PayloadIdentifier</key>
 			<string>6FC843B3-7A3D-4428-8511-AD266CF6DA0B</string>
 			<key>PayloadOrganization</key>
@@ -4192,11 +4192,11 @@
 			AAEAAgBAANcAAQAEAAQATQCYAOUAAAAAAAEAAAAA
 			</data>
 			<key>Name</key>
-			<string>Sign Font Light</string>
+			<string>Signs Font Light</string>
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>Font</string>
+			<string>Signs Font Light</string>
 			<key>PayloadIdentifier</key>
 			<string>1A7D0D2E-FB01-4A8E-B6CE-B5EC239D8714</string>
 			<key>PayloadOrganization</key>
@@ -6246,11 +6246,11 @@
 			AAIAQADXAAEABAAEAE0AmADlAAAAAAABAAAAAA==
 			</data>
 			<key>Name</key>
-			<string>Sign Font Bold</string>
+			<string>Signs Font Bold</string>
 			<key>PayloadDescription</key>
 			<string></string>
 			<key>PayloadDisplayName</key>
-			<string>Font</string>
+			<string>Signs Font Bold</string>
 			<key>PayloadIdentifier</key>
 			<string>0A714ED7-A2F6-4C57-8F13-B1ED37825478</string>
 			<key>PayloadOrganization</key>
@@ -6266,9 +6266,9 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>Install ••• SIGN FONT</string>
+	<string>Install ••• Maxitype - Signs Font •••</string>
 	<key>PayloadIdentifier</key>
-	<string>D8F11A2F-4C7A-44B9-89BD-263CD13604E4</string>
+	<string>com.sheriffprojects.signs-font</string>
 	<key>PayloadOrganization</key>
 	<string>SHERIFF PROJECTS</string>
 	<key>PayloadRemovalDisallowed</key>
