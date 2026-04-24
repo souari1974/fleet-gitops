@@ -51,6 +51,8 @@ settings:
       enable_failing_policies_webhook: false
       host_batch_size: 0
 software:
+  packages:
+  - path: ../lib/unassigned/software/capture_one.yml
   fleet_maintained_apps:
     - slug: slack/darwin
       self_service: true

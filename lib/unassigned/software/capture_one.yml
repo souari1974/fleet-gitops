@@ -1,0 +1,6 @@
+- install_script:
+    path: ./install_capture_one.sh
+  uninstall_script:
+    path: ./uninstall_capture_one.sh
+  pre_install_query:
+    path:
