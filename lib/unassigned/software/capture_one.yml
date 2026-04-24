@@ -1,6 +1,6 @@
 - url: https://github.com/souari1974/fleet-gitops/releases/download/capture-one-v16.7.7.19/capture_one.pkg
-  hash_sha256: 64dcc40340a509fb71ca671050e0859eee2eb71dad10d1b287c45c3047dc5f63
+  hash_sha256: 43e52f9acb8feb82f62af620ae4c88f911d4c04574680685ab16efa280ebec54
   install_script:
-    path: ./install_script.sh
+    path: ./install_capture_one.sh
   uninstall_script:
-    path: ./uninstall_script.sh
+    path: ./uninstall_capture_one.sh
