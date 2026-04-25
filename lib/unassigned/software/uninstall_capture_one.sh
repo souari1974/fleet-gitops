@@ -16,7 +16,7 @@ sleep 2
 
 # 3. Liste des cibles (Utilisateur, Application et Partagé)
 TARGETS=(
-    "/Applications/Capture One*.app"
+    "/Applications/Capture One.app"
     "/Users/Shared/Capture One"
     "$USER_HOME/Library/Application Support/Capture One"
     "$USER_HOME/Library/Caches/com.captureone.captureone*"
