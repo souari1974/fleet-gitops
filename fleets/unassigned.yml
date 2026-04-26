@@ -54,6 +54,8 @@ software:
   packages:
   - path: ../lib/unassigned/software/capture_one.yml
     self_service: true
+    icon:
+      path: ../lib/all/icon/capture_one.png
   fleet_maintained_apps:
     - slug: slack/darwin
       self_service: true
