@@ -6,6 +6,7 @@ controls:
     - path: ../lib/unassigned/profiles/Settings_Apple_Terminal.mobileconfig
     - path: ../lib/unassigned/profiles/Settings_Avid_Nexis_Client.mobileconfig
     - path: ../lib/unassigned/profiles/Settings_Bombich_Carbon_Copy_Cloner.mobileconfig
+    - path: ../lib/unassigned/profiles/Settings_Capture_One.mobileconfig    
     - path: ../lib/unassigned/profiles/Settings_DEVONTech_Xmenu.mobileconfig
     - path: ../lib/unassigned/profiles/Settings_FleetDM_Orbit.mobileconfig
     - path: ../lib/unassigned/profiles/Settings_Fortinet_Forticlient.mobileconfig
