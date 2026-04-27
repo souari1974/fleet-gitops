@@ -1,7 +1,5 @@
-- url: https://raw.githubusercontent.com/souari1974/fleet-gitops/main/lib/unassigned/download/capture_one.pkg
-  hash_sha256: f417216c928f7a61084d2c804f5eef013a599c1737ba8885974bd07bc9296c99
-  icon:
-    path: ../../all/icon/capture_one.png
+- url: https://downloads.captureone.pro/d/mac/76d45115a319e65b34508afe49de4c0dede01820/CaptureOne.Mac.16.7.7.19.dmg
+  hash_sha256: db76cfe53ae920c1c8dcf474a5f53ebc5f676fe275fe9d3054bd0fb76d3f264f
   install_script:
     path: ./install_capture_one.sh
   uninstall_script:
