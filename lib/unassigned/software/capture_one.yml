@@ -1,5 +1,5 @@
 - url: https://raw.githubusercontent.com/souari1974/fleet-gitops/main/lib/unassigned/download/capture_one.pkg
-  hash_sha256: b71697e3f862ecb9d2f49985f5c3f878d0bbb3f61533cadd9bc889ccd6e2d02f
+  hash_sha256: 137559b2e9ed74e3645b0acf78d8b3afd72d3bc72e29616eb22356a11d03beb4
   icon:
     path: ../../all/icon/capture_one.png
   install_script:
